@@ -1,0 +1,25 @@
+ ,MON,MON,MON,MON,MON,TUE,TUE,TUE,TUE,TUE,WED,WED,WED,WED,WED,THU,THU,THU,THU,THU,FRI,FRI,FRI,FRI,FRI
+ ,DL 1,DL 2,DL 3,DL 4,DL 5,DL 1,DL 2,DL 3,DL 4,DL 5,DL 1,DL 2,DL 3,DL 4,DL 5,DL 1,DL 2,DL 3,DL 4,DL 5,DL 1,DL 2,DL 3,DL 4,DL 5
+Shweta_Mam,1A,1B,,,,1A,1B,,,,1C,,,,,1C,,,,,,,,,,
+,r1,r1,,,,r1,r1,,,,r1,,,,,r1,,,,,,,,,,
+Sanjivani_Mam,1B,1A,,,,1B,1A,,,,,1C,,,,,1C,,,,,,,,,
+,r2,r2,,,,r2,r2,,,,,r1,,,,,r1,,,,,,,,,
+Surabhi_Mam,,,1A,1B,,,,1A,1B,,,,1C,,,,,1C,,,,,,,,
+,,,r1,r1,,,,r1,r1,,,,r1,,,,,r1,,,,,,,,
+Sunil_Sir,,,1C,,,,,1C,,,1A,1B,,,,1A,1B,,,,,,,,,
+,,,r2,,,,,r2,,,r2,r2,,,,r2,r2,,,,,,,,,
+Vaishali_Mam,,,,1C,,,,,1C,,,,1A,1B,,,,1A,1B,,,,,,,
+,,,,r2,,,,,r2,,,,r2,r1,,,,r2,r1,,,,,,,
+Amruta_Mam,,,,,2A,,,,,2A,,,,2B,2C,,,,2B,2C,,,,,,
+,,,,,r1,,,,,r1,,,,r2,r1,,,,r2,r1,,,,,,
+Madhuri_Mam,,,,,2B,,,,,2B,,,,,2A,,,,,2A,2C,,,,,
+,,,,,r2,,,,,r2,,,,,r2,,,,,r2,r1,,,,,
+Zareena_Mam,,,,,,,,,,,,,,,,,,,,,2A,2B,,,,
+,,,,,,,,,,,,,,,,,,,,,r2,r1,,,,
+Milind_Sir,,,,,,,,,,,,,,,,,,,,,,2A,2B,,,
+,,,,,,,,,,,,,,,,,,,,,,r2,r1,,,
+Shital_Mam,,,,,,,,,,,,,,,,,,,,,,,2A,2B,,
+,,,,,,,,,,,,,,,,,,,,,,,r2,r1,,
+3 Lectures Of 2A are Skipped Due To Unavailability of Rooms
+3 Lectures Of 2B are Skipped Due To Unavailability of Rooms
+7 Lectures Of 2C are Skipped Due To Unavailability of Rooms

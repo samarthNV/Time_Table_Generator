@@ -1,0 +1,7 @@
+1A, 1B, 1C, 2A, 2B, 2C
+1A, 1B, 1C
+2A, 2B, 2C
+Deep_Learning, Cloud_Computing, Complexity_Algorithms, SDAM, EDI_1
+Machine_Learning, Operating_Systems, Statistical_Inference, Artificial_Intelligence, EDI_2
+Shweta_Mam, Adsul_Mam, Surabhi_Mam, Sunil_Sir, Vaishali_Mam, Amruta_Mam, Madhuri_Mam, Zareena_Mam, Milind_Sir, Shital_Mam
+Deep_Learning, Cloud_Computing, Complexity_Algorithms, SDAM, EDI_1, Machine_Learning, Operating_Systems, Statistical_Inference, Artificial_Intelligence, EDI_2
